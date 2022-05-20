@@ -1,0 +1,2 @@
+Wed May 11 00:30:29 2022 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.24574, valid loss: 0.07824, Acc: 98.6560, AUC: 0.999362.
+Wed May 11 00:36:55 2022 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.03636, valid loss: 0.02169, Acc: 99.3280, AUC: 0.999691.

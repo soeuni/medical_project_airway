@@ -1,0 +1,4 @@
+Sat Feb 26 00:36:41 2022 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.69727, valid loss: 0.71409, Acc: 37.5000, AUC: 0.318627.
+Sat Feb 26 00:37:03 2022 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.61942, valid loss: 0.77599, Acc: 47.5000, AUC: 0.583333.
+Sat Feb 26 00:37:28 2022 Fold 0, Epoch 3, lr: 0.0002561, train loss: 0.51523, valid loss: 0.81822, Acc: 35.0000, AUC: 0.534314.
+Sat Feb 26 00:37:55 2022 Fold 0, Epoch 4, lr: 0.0001500, train loss: 0.46024, valid loss: 0.81318, Acc: 37.5000, AUC: 0.519608.
